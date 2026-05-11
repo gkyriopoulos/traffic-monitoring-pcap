@@ -1,6 +1,6 @@
 gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0
 
-This is my packet sniffing tool for Assigment 5.
+This is my packet sniffing tool
 It filters:
 1)All non TCP/UDP packets
 2)All trafic to a specific port(eg "port 8080")
