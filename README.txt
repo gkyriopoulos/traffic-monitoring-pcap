@@ -1,8 +1,5 @@
 gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0
 
-Name:Georgios Kyriopoulos
-AM:2019030017
-
 This is my packet sniffing tool for Assigment 5.
 It filters:
 1)All non TCP/UDP packets
